@@ -15,7 +15,7 @@
     "events",
     "group",
     "contiguous",
-    "elements",
+    "elements"
   ],
   "license": "MIT"
 }
