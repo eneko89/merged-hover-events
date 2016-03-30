@@ -1,0 +1,21 @@
+{
+  "name": "merged-hover-events",
+  "description": "Emulates 'mouseenter' and 'mouseleave' on a group of contiguous elements as if they were only one.",
+  "author": "Eneko <contact@eneko.me>",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eneko89/merged-hover-events"
+  },
+  "keywords": [
+    "mouseenter",
+    "mouseleave",
+    "hover",
+    "events",
+    "group",
+    "contiguous",
+    "elements",
+  ],
+  "license": "MIT"
+}
