@@ -45,5 +45,5 @@ declares mergedHoverEvents() function in the global scope.
 Examples
 --------
 
-* [Simple usage](https://jsfiddle.net/Lrmdcvrk/10/)
-* [With common elements](https://jsfiddle.net/bd0eporw/6/)
+* [Simple usage](https://jsfiddle.net/Lrmdcvrk/11/)
+* [With common elements](https://jsfiddle.net/bd0eporw/7/)
