@@ -7,6 +7,9 @@ they were only one.
 Usage
 -----
 
+Works both required as CommonsJS module (e.g., to bundle it with Browserify) in
+node or in the browser.
+
 ```javascript
 
 /**
@@ -36,11 +39,8 @@ function mergedHoverEvents(elems, onEnter, onLeave, exclusive) {
 
 ```
 
-This package is meant to be used in the browser only, but it can be required as a
-CommonsJS module so it can be bundled with Browserify or other browser bundlers.
-
-As a CommonsJS module it exports a function, and in a browser environment declares
-mergedHoverEvents() function in the global scope.
+As a CommonsJS module it exports a function, and in a browser environment
+declares mergedHoverEvents() function in the global scope.
 
 Examples
 --------
