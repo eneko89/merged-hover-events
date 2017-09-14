@@ -135,7 +135,7 @@
     module.exports = mergedHoverEvents;
   } else {
 
-    // Export it as 'geoUtils' global variable.
+    // Export it as 'mergedHoverEvents' global function.
     this.mergedHoverEvents = mergedHoverEvents;
   }
 
